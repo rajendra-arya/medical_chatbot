@@ -7,5 +7,6 @@ langchain-pinecone==0.2.8
 langchain-openai==0.3.24
 langchain-google-genai
 langchain-community==0.3.26
+gunicorn==23.0.0
 
 # -e.
