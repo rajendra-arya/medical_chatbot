@@ -1,0 +1,12 @@
+.git
+*.pyc
+__pycache__/
+*.egg-info
+build/
+dist/
+data/
+research/
+*.ipynb
+.env
+.env.*
+Dockerfile
