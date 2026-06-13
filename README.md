@@ -1,13 +1,10 @@
-# Medical Chatbot with LLMs, LangChain, Pinecone, Flask, AWS
+# Medical Chatbot with LLMs, LangChain, Gemini, Pinecone, Flask, AWS
 
 # How to run?
 ### STEPS:
 
 Clone the repository
 
-```bash
-git clonehttps://github.com/entbappy/Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS.git
-```
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
@@ -54,7 +51,7 @@ open up localhost:8080
 - Python
 - LangChain
 - Flask
-- GPT
+- Gemini
 - Pinecone
 
 
@@ -127,4 +124,4 @@ open up localhost:8080
    - AWS_DEFAULT_REGION
    - ECR_REPO
    - PINECONE_API_KEY
-   - OPENAI_API_KEY
+   - GEMINI_API_KEY
